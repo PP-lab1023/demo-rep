@@ -1,2 +1,2 @@
 # demo-rep
-To learn git
+To learn git.
